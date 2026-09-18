@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Site legado Tarponise Seguranca (2019) — sem regras restritivas.
